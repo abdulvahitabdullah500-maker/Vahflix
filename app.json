@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Vahflix",
+    "slug": "vahflix-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "vahflix",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.vahflix.mobile"
+    },
+    "android": {
+      "package": "com.vahflix.mobile",
+      "permissions": ["INTERNET"]
+    }
+  }
+}
